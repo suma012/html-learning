@@ -1,0 +1,16 @@
+
+/*h1{
+	color: tomato;
+	font-size: 50px;
+	text-decoration: none;
+}*/
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: green;
+	font-family: sans-serif;
+}
+a:visited{
+	color:black;
+}
