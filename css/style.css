@@ -14,3 +14,23 @@ a:hover{
 a:visited{
 	color:black;
 }
+img{
+width: 250px;
+height: auto;
+
+}
+.table-t{
+
+}
+th, td {
+	border: 1px solid black;
+	border-radius: 15px;
+  }
+  .city {
+	background-color: hotpink;
+	color: slateblue;
+	border: 5px solid red;
+	margin: 15px;
+	padding: 15px;
+	border-radius: 40px;
+width: 500px;
