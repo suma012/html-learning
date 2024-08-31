@@ -1,0 +1,9 @@
+
+  .city{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid gold;
+    padding: 100px;
+    border-radius: 800px;
+  }
