@@ -1,0 +1,33 @@
+.img{
+    border: 5px solid black;
+    width: 500px;
+   
+  
+}
+.bg{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    border: 500px;
+}
+.bg-i{
+    background-color: beige;
+    color: blueviolet;
+    border: 5px solid brown;
+    width: 300;
+    border-radius: 15px;
+}
+.d_2{
+
+}
+.bCg{
+    border: 10PX solid salmon;
+    background-color: aquamarine;
+    border-radius:15px;
+    width: 500px;
+}
+.bg-ii{
+    color: brown;
+    border: 5px solid black;
+        width: 800px;
+        border-radius: 50px;
+}
