@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid brown;
+ width: 500px;   
+ height: 500px;
+ margin:50px ;
+ text-align: center;
+ padding: 20px ;
+ border-radius: 50px;
+}
+.c{
+    text-align: left;
+}
+.c-2{
+    text-align: right;
+}
