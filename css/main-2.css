@@ -6,10 +6,32 @@
  text-align: center;
  padding: 20px ;
  border-radius: 50px;
+ background-color: beige;
 }
 .c{
     text-align: left;
 }
 .c-2{
     text-align: right;
+}
+.fixed{
+    position: fixed; 
+    
+    color: black;
+    background-color: aquamarine;
+    width: 100%;
+}
+.s{
+    color: brown;
+
+}
+.over_flow{
+    color: black;
+    border: 2px solid black;
+    width: 300px;
+    height: 100px;
+    overflow: scroll;
+    margin-left: 5px;
+    text-align: right;
+   background-color: aquamarine;
 }
