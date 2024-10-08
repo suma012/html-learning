@@ -1,0 +1,33 @@
+.container{
+    column-gap: 20px;
+    color: brown;
+    text-decoration: burlywood;border: 2px solid purple;
+    text-align:left;
+    border-radius: 20px;
+}
+.p{
+    width: 700px;
+    height: 400px;
+    float: left;
+}
+.over_flow{
+    overflow: scroll;
+    width: 300px;
+    height: 150px;
+    border: 5px solid purple;
+}.img_mountain{
+    z-index: -1;
+    position: absolute;
+}
+.img_mountain{
+    width: 95%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left{
+    text-align: right;
+}
+.z_index_2 {
+  position: relative;
+}
+

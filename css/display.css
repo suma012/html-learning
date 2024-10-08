@@ -1,0 +1,54 @@
+.container{
+    color: brown;
+    text-align: center;
+
+}
+.p{
+    
+}
+.c{
+    text-align: left;
+    color: black;
+}
+.cre{
+    display: inline;
+    background-color: aquamarine;
+    border: 2px solid purple;
+    color: black;
+    height: 15px;
+    
+}
+.container-2{
+    color: black;
+    text-align: left;
+}
+.v{
+    color: black;
+    border: 2px solid red;
+    display: block;
+    background-color:burlywood;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+}
+.pre{
+    color: black;
+    text-align: center;
+    display: block;
+    background-color: burlywood;
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+._img{
+    opacity: 0.6;
+	transition: 0.5;
+   
+}
+._img :hover{
+    opacity: 2;
+	cursor: pointer;
+    cursor:;
+}
