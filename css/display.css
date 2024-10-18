@@ -42,13 +42,15 @@
     border: 2px solid red;
     border-radius: 5px;
 }
-._img{
-    opacity: 0.6;
-	transition: 0.5;
-   
+.container-s{
+
 }
-._img :hover{
+.img{
+opacity: 0.7;
+
+
+}
+.img:hover{
+    cursor: pointer;
     opacity: 2;
-	cursor: pointer;
-    cursor:;
 }

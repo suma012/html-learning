@@ -1,0 +1,47 @@
+.nav{
+    list-style-type:none ;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+}
+li a{
+    display: block;
+}
+a{
+    text-decoration: none;padding: 15px;
+    background-color: brown;
+    transition: 2s;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+    /* margin: 2px solid black; */
+}
+a:hover{
+    background-color: pink;
+    color: black;
+    transition: 0.8s;
+}
+.nav_two{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+
+}
+.all_link{
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    background-color: coral;
+    transition: 3s;
+    margin: 10px;
+   color: deeppink;
+   border-radius: 20px;
+   text-align: center;
+
+
+}
+.all_link:hover{
+    background-color: violet;
+    color: crimson;
+}
