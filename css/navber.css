@@ -11,10 +11,10 @@ a{
     text-decoration: none;padding: 15px;
     background-color: brown;
     transition: 2s;
-    margin: 10px;
+    margin: 0.5px;
     border-radius: 10px;
     color: white;
-    /* margin: 2px solid black; */
+   
 }
 a:hover{
     background-color: pink;
@@ -45,3 +45,14 @@ a:hover{
     background-color: violet;
     color: crimson;
 }
+/* 
+    list-style-type: none;
+    background-color: black;
+
+}
+.all_line{
+    display: inline;
+    text-decoration: none;
+    background-color: black;
+    color:white ; */
+
